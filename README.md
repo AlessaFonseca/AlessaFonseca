@@ -1,4 +1,6 @@
-Olá, me chamo Alêssa Fonsêca 👋  
+Olá, me chamo Alêssa Fonsêca 👋
+
+Desenvolvedora Full-Stack em formação
 
 ##  💫 About Me:
 
